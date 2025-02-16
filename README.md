@@ -20,7 +20,6 @@ Hey there!
 
 # Hello, I'm Devendra Chouhan!
 
-
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. I'm currently pursuing a BS in Data Science and Programming @IITMadras and I am at the Diploma level of the program.
 
 I am willing to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -36,7 +35,7 @@ I am willing to be a Full Stack Developer <img src="https://media.giphy.com/medi
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode & HackerRank and read tech articles.
 
-- :mailbox:Get In Touch at: devendrachouhan.sjt@gmail.com
+- :mailbox:Get In Touch at: contact.devendrasjt@gmail.com
 
 ---
 
@@ -132,7 +131,7 @@ I love connecting with new people and discussing technology, ideas, and potentia
 
 - [LinkedIn](https://www.linkedin.com/in/devendra-sjt)
 - [X](https://x.com/devendra-sjt)
-- [Email](mailto:devendrachouhan.sjt@gamil.com)
+- [Email](mailto:contact,devendrasjt@gamil.com)
 
 ## 📝 My PortFolio
 
