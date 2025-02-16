@@ -50,8 +50,10 @@ I am currently pursuing a **Bachelor of Science in Data Science and Programming*
   <a href="https://www.sqlite.org/docs.html"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
   <a href="https://www.kernel.org/doc/html/latest/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://docs.aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://git-scm.com/doc"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com/doc"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+  <a href="https://vercel.app"><img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/></a>&nbsp;
+  <a href="https://netlify.app/"><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/></a>
   
 <!---  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
