@@ -122,7 +122,7 @@ I love connecting with new people and discussing technology, ideas, and potentia
 
 - [LinkedIn](https://www.linkedin.com/in/devendra-sjt)
 - [X](https://x.com/devendra-sjt)
-- [Email](mailto:contact,devendrasjt@gamil.com)
+- [Email](mailto:contact.devendrasjt@gamil.com)
 
 ## 📝 My PortFolio
 
