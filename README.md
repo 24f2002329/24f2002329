@@ -7,7 +7,7 @@ Hey there!
 </h1>
 </div>
 
-# Hello, I'm Devendra Chouhan!
+# Hi, I'm Devendra Chouhan!
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. I'm currently pursuing a BS in Data Science and Programming @IITMadras and I am at the Diploma level of the program.
 
