@@ -93,7 +93,7 @@ I am constantly looking to expand my skill set and stay up-to-date with the late
 
 ## 🌱 Currently Learning
 
-As part of my current coursework, I am delving deeper into the following areas:
+As part of my current coursework, I am diving deeper into the following areas:
 
 - Advanced Python programming
 - Data analysis and visualization
